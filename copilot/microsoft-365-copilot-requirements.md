@@ -82,3 +82,7 @@ Microsoft 365 Copilot users require a license for Microsoft 365 E3 or Microsoft 
 ## Privacy settings for Microsoft 365 Apps for enterprise
 
 Review your privacy settings for Microsoft 365 Apps for enterprise because those settings might have an effect on the availability of Microsoft 365 Copilot features. For more information, see [Microsoft 365 Copilot and policy settings for connected experiences](microsoft-365-copilot-privacy.md#microsoft-365-copilot-and-policy-settings-for-connected-experiences).
+
+## Microsoft Search in Bing
+
+Microsoft Search in Bing is also the requirement for M365 Copilot. Review your settings for Microsoft Search and otherwise Bing Chat Enterprise won't work for Microsoft 365 Copilot Users. For more information, see [https://learn.microsoft.com/en-us/microsoftsearch/setup-microsoft-search).
